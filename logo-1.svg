@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0f5f4b"/><stop offset="1" stop-color="#19a37c"/></linearGradient></defs>
+<circle cx="400" cy="400" r="370" fill="#fff" stroke="#d3a536" stroke-width="18"/>
+<circle cx="400" cy="400" r="330" fill="url(#g)"/>
+<path d="M210 355 C260 300 315 300 365 345 L400 378 L435 345 C485 300 540 300 590 355" fill="none" stroke="#fff" stroke-width="30" stroke-linecap="round"/>
+<path d="M215 365 C260 430 320 465 400 485 C480 465 540 430 585 365" fill="none" stroke="#e0b54a" stroke-width="24" stroke-linecap="round"/>
+<path d="M305 390 C335 365 365 370 400 405 C435 370 465 365 495 390" fill="none" stroke="#fff" stroke-width="21" stroke-linecap="round"/>
+<text x="400" y="230" text-anchor="middle" direction="rtl" font-family="Tahoma,Arial,sans-serif" font-size="74" font-weight="700" fill="#fff">بر الأمان</text>
+<text x="400" y="555" text-anchor="middle" direction="rtl" font-family="Tahoma,Arial,sans-serif" font-size="35" font-weight="700" fill="#fff">يدًا بيد نصنع المعجزة</text>
+<text x="400" y="600" text-anchor="middle" font-family="Arial,sans-serif" font-size="19" fill="#e5f4ef">AL-BIR AL-AMAN CHARITABLE SOCIETY</text>
+</svg>
